@@ -14,7 +14,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -28,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/screenshot.png)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [https://github.com/habmath/3-Column-Preview-Card-Component.git](https://github.com/habmath/3-column-preview-card-component.git)
-- Live Site URL: [https://habmath.github.io](https://habmath.github.io/3-column-preview-card-component/)
+- Solution URL: [https://github.com/habmath/3-column-card-component.git](https://github.com/habmath/3-column-card-component.git)
+- Live Site URL: [https://habmath.github.io](https://habmath.github.io/3-column-card-component/)
 
 ## My process
 
