@@ -1,0 +1,63 @@
+# Frontend Mentor - 3-column preview card component solution
+
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
+
+### Screenshot
+
+![](./design/screenshot.png)
+
+### Links
+
+- Solution URL: [https://github.com/habmath/3-Column-Preview-Card-Component.git](https://github.com/habmath/3-column-preview-card-component.git)
+- Live Site URL: [https://habmath.github.io](https://habmath.github.io/3-column-preview-card-component/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
+### What I learned
+
+In this project, I learnt to use the mobile-first work flow and practised the Semantic HTML5 markup and also learnd how to use the CSS well enough.
+
+### Continued development
+
+Need to keep improving my Semantic HTML5 and CSS skills, and how to make wabpage more responsive and accessible. 
+### Useful resources
+
+- [udemy](https://www.udemy.com) - This helped me with my first knowledge on frontend development, and I really like it.
+
+## Author
+
+- Frontend Mentor - [@habmath](https://www.frontendmentor.io/profile/habmath)
+- Facebook - [@sodiya.habeeb](https://web.facebook.com/sodiya.habeeb)
+
+

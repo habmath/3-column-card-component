@@ -1,0 +1,109 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    min-height: 1450px;
+    background-color: hsl(0, 0%, 95%);
+    margin: 0;
+    font-size: 15px;
+}
+main {
+    position: relative;
+}
+.component {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    overflow: hidden;
+}
+footer {
+    top: 0;
+    position: absolute;
+    width: 100%;
+    margin-top: 1350px;
+}
+.attribution {
+    font-size: 11px; 
+    text-align: center;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+.sedan {
+    background-color: hsl(31, 77%, 52%);
+}
+.sedan button {
+    color: hsl(31, 77%, 52%);
+}
+.suv {
+    background-color: hsl(184, 100%, 22%);
+}
+.suv button {
+    color: hsl(184, 100%, 22%);
+}
+.luxury {
+    background-color: hsl(179, 100%, 13%);
+}
+.luxury button {
+    color: hsl(179, 100%, 13%);
+}
+.column {
+    height: 341px;
+    width: 225px;
+    padding: 50px;
+}
+h1 {
+    margin: 28px 0 25px 0;
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsl(0, 0%, 95%);
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+    padding: 0;
+}
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+    margin-top: 25px;
+    line-height: 1.7;
+    font-weight: 400;
+    margin: 0;
+}
+button {
+    padding: 13px 40px 13px 40px;
+    border: 2px solid hsl(0, 0%, 95%);;
+    border-radius: 50px;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-top: 22px;
+    cursor: pointer;
+    background-color: hsl(0, 0%, 95%);;
+}
+button:hover {
+    background-color: rgba(255, 255, 255, 0);
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+@media only screen and (min-width: 768px){
+    body {
+        min-height: 500px;
+    }
+    .component {
+        flex-direction: row;
+        margin-top: 40px;
+    }
+    footer {
+        margin-top: 550px;
+    }
+    .column {
+        height: 405px;
+        width: 209px;
+        padding: 48px;
+    }
+    button {
+        margin-top: 83px;
+    }
+    h1 {
+        margin: 31px 0 25px 0;
+    }
+}
